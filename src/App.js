@@ -7,7 +7,7 @@ import Home from './Pages/home';
 
 function App() {
   return (
-    <Router>
+
       <div className='App'>
         <Nav/>
         <Routes>
@@ -16,6 +16,6 @@ function App() {
           <Route path="/Info/:id" element={<Info/>} />
         </Routes>
       </div>
-    </Router>
+
   );
 } export default App;
