@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/tuktukjohansson.github.io/doggydaycare/static/css/main.3d9bacaa.css",
-    "main.js": "/tuktukjohansson.github.io/doggydaycare/static/js/main.ca658afb.js",
-    "static/js/787.49c77865.chunk.js": "/tuktukjohansson.github.io/doggydaycare/static/js/787.49c77865.chunk.js",
-    "static/media/welcome.png": "/tuktukjohansson.github.io/doggydaycare/static/media/welcome.6e58563068c210cd0de4.png",
-    "static/media/homebtn.png": "/tuktukjohansson.github.io/doggydaycare/static/media/homebtn.5add3f2018c6e0739926.png",
-    "static/media/registerbtn.png": "/tuktukjohansson.github.io/doggydaycare/static/media/registerbtn.314efc162fe93d904350.png",
-    "index.html": "/tuktukjohansson.github.io/doggydaycare/index.html",
-    "main.3d9bacaa.css.map": "/tuktukjohansson.github.io/doggydaycare/static/css/main.3d9bacaa.css.map",
-    "main.ca658afb.js.map": "/tuktukjohansson.github.io/doggydaycare/static/js/main.ca658afb.js.map",
-    "787.49c77865.chunk.js.map": "/tuktukjohansson.github.io/doggydaycare/static/js/787.49c77865.chunk.js.map"
+    "main.css": "/doggydaycare/static/css/main.3d9bacaa.css",
+    "main.js": "/doggydaycare/static/js/main.d20ea587.js",
+    "static/js/787.7079d133.chunk.js": "/doggydaycare/static/js/787.7079d133.chunk.js",
+    "static/media/welcome.png": "/doggydaycare/static/media/welcome.6e58563068c210cd0de4.png",
+    "static/media/homebtn.png": "/doggydaycare/static/media/homebtn.5add3f2018c6e0739926.png",
+    "static/media/registerbtn.png": "/doggydaycare/static/media/registerbtn.314efc162fe93d904350.png",
+    "index.html": "/doggydaycare/index.html",
+    "main.3d9bacaa.css.map": "/doggydaycare/static/css/main.3d9bacaa.css.map",
+    "main.d20ea587.js.map": "/doggydaycare/static/js/main.d20ea587.js.map",
+    "787.7079d133.chunk.js.map": "/doggydaycare/static/js/787.7079d133.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d9bacaa.css",
-    "static/js/main.ca658afb.js"
+    "static/js/main.d20ea587.js"
   ]
 }
